@@ -1,0 +1,161 @@
+# depslib dependency file v1.0
+1663201862 source:c:\users\blanco mariano\desktop\programacion utn 2022\programacion y laboratorio 2\tp 4 - listas simples enlazadas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"nodeStack.h"
+	"clients.h"
+
+1663201862 source:c:\users\blanco mariano\desktop\programacion utn 2022\programacion y laboratorio 2\tp 4 - listas simples enlazadas\clients.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	"clients.h"
+	"margin.h"
+
+1662469034 c:\users\blanco mariano\desktop\programacion utn 2022\programacion y laboratorio 2\tp 4 - listas simples enlazadas\clients.h
+
+1663200941 source:c:\users\blanco mariano\desktop\programacion utn 2022\programacion y laboratorio 2\tp 4 - listas simples enlazadas\nodeclients.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"margin.h"
+	"nodeClients.h"
+	"clients.h"
+
+1663200941 c:\users\blanco mariano\desktop\programacion utn 2022\programacion y laboratorio 2\tp 4 - listas simples enlazadas\nodeclients.h
+	"clients.h"
+
+1662752321 source:c:\users\blanco mariano\desktop\programacion utn 2022\programacion y laboratorio 2\tp 4 - listas simples enlazadas\margin.c
+	<stdlib.h>
+	<stdio.h>
+
+1663201862 c:\users\blanco mariano\desktop\programacion utn 2022\programacion y laboratorio 2\tp 4 - listas simples enlazadas\menu.h
+
+1663253226 source:c:\users\blanco mariano\desktop\programacion utn 2022\programacion y laboratorio 2\tp 4 - listas simples enlazadas\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	"margin.h"
+	"nodeClients.h"
+	"fileNodCli.h"
+	"menu.h"
+
+1662743368 c:\users\blanco mariano\desktop\programacion utn 2022\programacion y laboratorio 2\tp 4 - listas simples enlazadas\margin.h
+
+1663200566 source:c:\users\blanco mariano\desktop\programacion utn 2022\programacion y laboratorio 2\tp 4 - listas simples enlazadas\filenodcli.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"clients.h"
+	"nodeClients.h"
+	"margin.h"
+	"fileNodCli.h"
+
+1663197803 c:\users\blanco mariano\desktop\programacion utn 2022\programacion y laboratorio 2\tp 4 - listas simples enlazadas\filenodcli.h
+
+1663200941 source:c:\users\blanco mariano\desktop\programacion utn 2022\programacion y laboratorio 2\tp 4 - listas simples enlazadas\nodestack.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	"clients.h"
+	"nodeClients.h"
+	"nodeStack.h"
+
+1663113397 c:\users\blanco mariano\desktop\programacion utn 2022\programacion y laboratorio 2\tp 4 - listas simples enlazadas\nodestack.h
+	"nodeClients.h"
+
+1663253285 source:c:\users\blanco mariano\desktop\programacion utn 2022\programacion y laboratorio 2\tp 4 - listas simples enlazadas\filestack.c
+	<stdio.h>
+	<stdlib.h>
+	"nodeStack.h"
+	"fileStack.h"
+
+1663253226 c:\users\blanco mariano\desktop\programacion utn 2022\programacion y laboratorio 2\tp 4 - listas simples enlazadas\filestack.h
+
+1663201862 source:c:\users\blanco mariano\desktop\proyectos comprimidos\tp 4 - listas simples enlazadas\clients.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+	"clients.h"
+	"margin.h"
+
+1662469034 c:\users\blanco mariano\desktop\proyectos comprimidos\tp 4 - listas simples enlazadas\clients.h
+
+1662743368 c:\users\blanco mariano\desktop\proyectos comprimidos\tp 4 - listas simples enlazadas\margin.h
+
+1663253285 source:c:\users\blanco mariano\desktop\proyectos comprimidos\tp 4 - listas simples enlazadas\filestack.c
+	<stdio.h>
+	<stdlib.h>
+	"nodeStack.h"
+	"fileStack.h"
+
+1663113397 c:\users\blanco mariano\desktop\proyectos comprimidos\tp 4 - listas simples enlazadas\nodestack.h
+	"nodeClients.h"
+
+1663200941 c:\users\blanco mariano\desktop\proyectos comprimidos\tp 4 - listas simples enlazadas\nodeclients.h
+	"clients.h"
+
+1663253226 c:\users\blanco mariano\desktop\proyectos comprimidos\tp 4 - listas simples enlazadas\filestack.h
+
+1663201862 source:c:\users\blanco mariano\desktop\proyectos comprimidos\tp 4 - listas simples enlazadas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"nodeStack.h"
+	"clients.h"
+
+1663201862 c:\users\blanco mariano\desktop\proyectos comprimidos\tp 4 - listas simples enlazadas\menu.h
+
+1662752321 source:c:\users\blanco mariano\desktop\proyectos comprimidos\tp 4 - listas simples enlazadas\margin.c
+	<stdlib.h>
+	<stdio.h>
+
+1663253380 source:c:\users\blanco mariano\desktop\proyectos comprimidos\tp 4 - listas simples enlazadas\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	"margin.h"
+	"nodeClients.h"
+	"fileNodCli.h"
+	"menu.h"
+
+1663197803 c:\users\blanco mariano\desktop\proyectos comprimidos\tp 4 - listas simples enlazadas\filenodcli.h
+
+1663200941 source:c:\users\blanco mariano\desktop\proyectos comprimidos\tp 4 - listas simples enlazadas\nodeclients.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"margin.h"
+	"nodeClients.h"
+	"clients.h"
+
+1663200941 source:c:\users\blanco mariano\desktop\proyectos comprimidos\tp 4 - listas simples enlazadas\nodestack.c
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	"clients.h"
+	"nodeClients.h"
+	"nodeStack.h"
+
+1668562395 source:c:\users\blanco mariano\desktop\proyectos comprimidos\tp 4 - listas simples enlazadas\filenodcli.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"clients.h"
+	"nodeClients.h"
+	"margin.h"
+	"fileNodCli.h"
+
